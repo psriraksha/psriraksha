@@ -1,4 +1,4 @@
-## hy there sriraksha
+## hy there,i'm sriraksha
 MCA Postgraduate |Aspiring Full-Stack-Developer|<br>Passionate about Web Development & Open Source Always learning
 
 
