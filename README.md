@@ -1,6 +1,5 @@
 ## hy there,i'm sriraksha
-MCA Postgraduate |Aspiring Full-Stack-Developer|<br>Passionate about Web Development & Open Source Always learning
-
+te | 👨‍💻 Aspiring Full-Stack Developer | 🌐 Passionate about Web 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rax_a_r3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:psriraksha22@gmail.com) 
